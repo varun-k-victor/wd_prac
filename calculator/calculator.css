@@ -1,0 +1,25 @@
+body{
+	background-color: black;
+	text-align: center;
+	margin: 50px;
+	padding: 50px;
+	background-image: url('nature.jpeg');
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+
+.button{
+	margin: 10px;
+}
+
+.b1{
+	margin: 10px;
+}
+
+.b2{
+	margin: 10px;
+}
+
+.b3{
+	margin: 10px;
+}
