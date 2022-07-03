@@ -21,7 +21,7 @@ function conditional(){
 
 function loop(){
 	for(var a=0;a<5;a++){
-		document.write("hello<br>")
+		document.write("hello<br>");
 	}
 }
 
